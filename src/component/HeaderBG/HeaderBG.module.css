@@ -1,0 +1,14 @@
+.header {
+    height: 55vh;
+    width: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./reportWebVitals.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: translateY(-20px);
+}
+.header h2 {
+Font-size: 35px;
+Font-weight: 800;
+Line-height: 50px;
+font-family: 'Open Sans', sans-serif;
+}
